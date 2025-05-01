@@ -119,6 +119,7 @@ Therefore, the current system currently used in the numerical weather forecast n
 | HARMONIE-UERRA | no | [CDS](https://cds.climate.copernicus.eu/datasets/reanalysis-uerra-europe-single-levels?tab=overview) | [CDS](https://cds.climate.copernicus.eu/datasets/reanalysis-uerra-europe-single-levels?tab=overview) | 9km | grib2 | 1961-2019 | 6 hours | ? |
 | CERRA |  [Refer to here](https://climate.copernicus.eu/copernicus-regional-reanalysis-europe-cerra) | [Info](https://climate.copernicus.eu/copernicus-regional-reanalysis-europe-cerra) | [Info](https://climate.copernicus.eu/copernicus-regional-reanalysis-europe-cerra) | 5.5km |  | 1984 onwards | 1 hour? | ? |
 | ICON-DREAM |  ? | - | CC-BY4.0 | 6.5km | grib2? | 2010 onwards | 1 hour | ? |
+| CaSR |  ? | [Data download](https://hpfx.collab.science.gc.ca/~scar700/rcas-casr/download.html) |  [Licence](https://open.canada.ca/en/open-government-licence-canada) | 10 km | NetCDF | 1980 -2023  | 1 hour | ? |
 
 The ICON-DREAM reanalyses is the 2-way nest over Europe of the global reanalyses previously described.
 
