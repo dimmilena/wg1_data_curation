@@ -57,6 +57,7 @@ This chapter summaries [use cases](./use_cases/) provided by the WG members alon
   | Machine Learning applications for Post-Processing of NWP model output | - | - | Italy |  28x28km | NWP, ERA5 |  - | EWC | - | 
   | ML-based cloud retrieval | EWC R&D project | - | - |  - | DISAMAR simulations, GOME-2, S4, S5, 3MI |  - | EWC | All necessary data not available yet | 
   | Early fog and thunderstorm detection | [Description](use_cases/CNMCA-SRNWP-EPS_specs.md) | 1 hour | - | 3x3km | COSMO, NWC SAF RDT, METAR |  CSV, NetCDF, GRIB | - | Inconsistent time steps, missing fog prediction data |
+  | Machine Learning for Hydrological Hindcasting and Forecasting | - | Hourly | North America/Canada/Great Lakes Region | 10 km | observations (precip, temp, dew point temps...), reanalysis (CaSR) |internal Canadian CCMEP std format/NetCDF/txt| - | - |
 
 ### Joined Characteristics
 
